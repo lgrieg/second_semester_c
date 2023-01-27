@@ -1,2 +1,2 @@
 # second_semester_c
-TASKY TASKS
+Here is my implication of shared ptr and it`s methods
